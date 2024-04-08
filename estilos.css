@@ -1,4 +1,19 @@
 body {
-    background-color: rgb(232, 239, 239);
+    position: relative;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#ed1e6d;
+    text-align: center;
 }
 
+#topoDoSite {
+    background-color: rgba(0, 0, 0, 0.676);
+    width: 100%;
+    height: 400;
+}
